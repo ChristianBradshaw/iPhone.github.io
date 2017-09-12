@@ -37,6 +37,7 @@
 .future{
   background-color: #f7f7f7;
   font-weight: bold;
+  padding: 70px 0 140px;
 }
 
 .future h1,h2{
@@ -44,3 +45,17 @@
 }
 
 /*future*/
+
+/*iPhone8*/
+
+.iPhone8{
+  background-color: #f9f0eb;
+  font-weight: bold;
+  padding: 70px 0 140px;
+}
+
+.iPhone8 h1,h2{
+  font-weight: bold;
+}
+
+/*iPhone8*/
