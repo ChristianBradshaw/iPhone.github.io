@@ -21,6 +21,13 @@
 
 /*phoneTypes*/
 
+.phoneTypes{
+  background-color: #f2f2f2;
+}
 
+.list-inline-item p{
+  font-size: 11px;
+  line-height: 12px;
+}
 
 /*phoneTypes*/
