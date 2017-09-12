@@ -1,10 +1,18 @@
+/*Global*/
+
+* {
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+/*Global*/
+
 /*navbar*/
 
-.navbar{
+.navbar {
   height: 44px;
 }
 
-.navbar li{
+.navbar li {
   font-size: 14px;
   line-height: 44px;
 }
