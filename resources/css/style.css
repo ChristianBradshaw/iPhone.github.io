@@ -31,3 +31,16 @@
 }
 
 /*phoneTypes*/
+
+/*future*/
+
+.future{
+  background-color: #f7f7f7;
+  font-weight: bold;
+}
+
+.future h1,h2{
+  font-weight: bold;
+}
+
+/*future*/
