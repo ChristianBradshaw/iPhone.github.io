@@ -51,7 +51,7 @@
 .iPhone8{
   background-color: #f9f0eb;
   font-weight: bold;
-  padding: 70px 0 140px;
+  padding-top: 70px;
 }
 
 .iPhone8 h1,h2{
@@ -59,3 +59,17 @@
 }
 
 /*iPhone8*/
+
+/*compare*/
+
+.compare{
+  background-color: #fafafa;
+  margin-top: 45px;
+}
+
+.compareText{
+  padding: 200px 90px;
+}
+
+
+/*/compare*/
