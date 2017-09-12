@@ -1,0 +1,12 @@
+/*navbar*/
+
+.navbar{
+  height: 44px;
+}
+
+.navbar li{
+  font-size: 14px;
+  line-height: 44px;
+}
+
+/*navbar*/
