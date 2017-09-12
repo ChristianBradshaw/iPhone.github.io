@@ -68,8 +68,16 @@
 }
 
 .compareText{
-  padding: 200px 90px;
+  padding: 200px 90px 0;
 }
 
 
 /*/compare*/
+
+/*giant*/
+
+.giantHero{
+  overflow: hidden;
+}
+
+/*giant*/
