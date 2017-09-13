@@ -81,3 +81,37 @@
 }
 
 /*giant*/
+
+/*life*/
+
+.bigTainer{
+  width: 1350px;
+  height: 800px;
+}
+
+.lifeTainer{
+  background: url(/resources/img/lifeEasier.jpeg) no-repeat;
+  background-size: cover;
+  color: white;
+}
+
+/*life*/
+
+/*shoot*/
+
+.shootTainer{
+  background: url(/resources/img/howToShoot.jpeg) no-repeat;
+  background-size: cover;
+  color: white;
+}
+
+/*shoot*/
+
+/*business*/
+
+.businessTainer{
+  background: url(/resources/img/business.jpeg) no-repeat;
+  color: white;
+}
+
+/*business*/
